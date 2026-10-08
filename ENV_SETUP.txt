@@ -1,0 +1,13 @@
+VPS par ye environment variables set karein (sab aapke apne):
+
+BOT_TOKEN   = BotFather se apne bot ka token
+API_ID      = my.telegram.org se
+API_HASH    = my.telegram.org se
+DB_URI      = apna MongoDB connection string
+DB_NAME     = SaveRestricted2   (ya jo naam chahein)
+ADMINS      = aapki numeric Telegram ID  (agar kai hon to comma se: 111,222)
+LOG_CHANNEL = apne log channel ki ID (-100...)
+
+Owner = jo ID ADMINS mein hai. Sirf wahi bina plan ke bot use kar sakte hain
+aur /add_premium, /remove_premium, /ban, /unban chala sakte hain.
+Owner contact: @Ownernrcbot | Channel: https://t.me/iamtghelp
